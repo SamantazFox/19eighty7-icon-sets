@@ -11,6 +11,6 @@ I was able to retrive them.
 
 ![Spirit20 icon pack overview](spirit20-overview.png)
 
-##License
+## License
 
 These icon sets are licensed under the GNU GPL v3. See LICENSE.md for details.
