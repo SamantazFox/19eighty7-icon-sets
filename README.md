@@ -7,4 +7,10 @@ This repository contains a backup copy of the "Macchiato – Social" and
 Thanks to the [wayback machine](http://web.archive.org/web/20120904015937/http://19eighty7.com/icons)
 I was able to retrive them.
 
+## Overview
+
+![Spirit20 icon pack overview](spirit20-overview.png)
+
+##License
+
 These icon sets are licensed under the GNU GPL v3. See LICENSE.md for details.
